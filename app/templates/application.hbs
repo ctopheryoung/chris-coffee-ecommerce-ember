@@ -3,8 +3,7 @@
     {{#paper-toolbar}}
       <div class="md-toolbar-tools">
         <div class="logo">
-          <img src="ember-logo-white-955db9d87b940bf54a17bd1fa78d0713.png" height="30"/>
-          <strong>Paper</strong>
+          <img src="assets/logo.png" height="40"/>
         </div>
       </div>
     {{/paper-toolbar}}
@@ -13,6 +12,11 @@
       {{#paper-list}}
         {{#paper-item action="transitionTo" param="index"}}Home{{/paper-item}}
         {{#paper-item action="transitionTo" param="about"}}About{{/paper-item}}
+        {{#paper-item action="transitionTo" param="coffee"}}Coffee (static){{/paper-item}}
+        {{#paper-item action="transitionTo" param="accessories"}}Accessories (static){{/paper-item}}
+        {{#each model as |category|}}
+          {{#paper-item action="transitionToCategory" param=category}}{{category.name}} (dynamic){{/paper-item}}
+        {{/each}}
       {{/paper-list}}
     {{/paper-content}}
   {{/paper-sidenav}}
@@ -23,7 +27,7 @@
         {{#paper-sidenav-toggle as |toggle|}}
           {{#paper-button target=toggle action="toggleMenu" icon-button=true}}{{paper-icon "menu"}}{{/paper-button}}
         {{/paper-sidenav-toggle}}
-        <span class="md-breadcrumb-page">Title</span>
+        <span class="md-breadcrumb-page">Page Title</span>
       </div>
     {{/paper-toolbar}}
 

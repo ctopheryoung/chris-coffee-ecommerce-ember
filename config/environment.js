@@ -13,7 +13,7 @@ module.exports = function(environment) {
       'img-src': "'self' data:",
       'media-src': "'self'"
      },
-    firebase: 'https://coffee-fun.firebaseio.com/',
+    firebase: 'https://chris-coffee.firebaseio.com/',
     baseURL: '/',
     locationType: 'auto',
     EmberENV: {

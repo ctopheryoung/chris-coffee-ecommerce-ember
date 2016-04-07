@@ -1,3 +1,4 @@
+{{model.name}}
 {{#each model.products as |product|}}
-  <p>{{product.name}}</p>
+  {{product-tile product=product}}
 {{/each}}
