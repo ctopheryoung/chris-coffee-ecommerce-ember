@@ -1,0 +1,36 @@
+{
+	"products": [{
+		"name": "Ethiopia Duromina",
+		"description": "This bombshell of a cup delivers sweet and citrus notes in an incredible, velvety texture.",
+		"price": 18,
+		"category": "1"
+	}, {
+		"name": "Golden Hour Blend",
+		"description": "A new warming and bright blend. Easy drinking any time of day, but especially charismatic when you can stop and sit with it.",
+		"price": 18,
+		"category": "1"
+	}, {
+		"name": "Mazama X Stumptown Mug",
+		"description": "A Stumptown staff favorite. We worked together with Mazama to create a glaze that reminds us of the unparalleled glory that is hot coffee on a foggy morning.",
+		"price": 42,
+		"category": "2"
+	}, {
+		"name": "French Press (12 Cup)",
+		"description": "If you’re boldly going for it, this is your new best friend. You get the most of everything here–big flavor, body, and mouthfeel.",
+		"price": 50,
+		"category": "2"
+	}],
+	"categories": [{
+		"name": "coffee",
+		"products": {
+			"0": true,
+			"1": true
+		}
+	}, {
+		"name": "accessories",
+		"products": {
+			"2": true,
+			"3": true
+		}
+	}]
+}
