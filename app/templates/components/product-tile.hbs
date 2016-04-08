@@ -1,13 +1,11 @@
-<h3></h3>
-<p></p>
-
 {{#paper-card}}
-  <img src="{{product.img}}" alt="{{product.name}}">
+  <img src="{{product.image}}" alt="{{product.name}}" class="product-img">
   {{#paper-card-content}}
     <h2>{{product.name}}</h2>
     <p>
       {{product.description}}
     </p>
+
   {{/paper-card-content}}
   <div class="md-actions" layout="row" layout-align="end center">
     {{#paper-button}}Action 1{{/paper-button}}

@@ -3,74 +3,80 @@
 		"name": "Ethiopia Duromina",
 		"description": "This bombshell of a cup delivers sweet and citrus notes in an incredible, velvety texture.",
 		"price": 18,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1320/pdp_desktop_medium/media.nl?1455579498",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1320/pdp_desktop_medium/media.nl?1455579498",
 		"category": "0"
 	}, {
 		"name": "Golden Hour Blend",
 		"description": "A new warming and bright blend. Easy drinking any time of day, but especially charismatic when you can stop and sit with it.",
 		"price": 18,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1430/pdp_desktop_medium/media.nl?1458857659",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1430/pdp_desktop_medium/media.nl?1458857659",
 		"category": "0"
 	}, {
 		"name": "Guatemala Candelaria",
 		"description": "An approachable, all-day, everyday coffee. A classic example of a great Antiguan coffee.",
 		"price": 17,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1431/pdp_desktop_medium/media.nl?1459793084",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1431/pdp_desktop_medium/media.nl?1459793084",
 		"category": "0"
 	}, {
 		"name": "Colombia El Jordan",
 		"description": "A classic example of a great Colombian coffee. Big, layered, and balanced. Easy drinking, all day long.",
 		"price": 20,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1428/large/media.nl?1457994223",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1428/large/media.nl?1457994223",
 		"category": "0"
 	}, {
 		"name": "Colombia Nariño Borderlands",
 		"description": "A creamy, viscous coffee from a successful project aimed to revitalize a region.",
 		"price": 19,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1422/large/media.nl?1456189079",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1422/large/media.nl?1456189079",
 		"category": "0"
 	}, {
 		"name": "Hair Bender",
 		"description": "The sweet, savory blend that started it all, and our most popular coffee. When you die and go to heaven, all the diners serve Hair Bender.",
 		"price": 15,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1333/large/media.nl?1455579816",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1333/large/media.nl?1455579816",
 		"category": "0"
 	}, {
 		"name": "Mazama X Stumptown Mug",
 		"description": "A Stumptown staff favorite. We worked together with Mazama to create a glaze that reminds us of the unparalleled glory that is hot coffee on a foggy morning.",
 		"price": 42,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1397/pdp_desktop_medium/media.nl?1455581331",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1397/pdp_desktop_medium/media.nl?1455581331",
 		"category": "1"
 	}, {
 		"name": "French Press (12 Cup)",
 		"description": "If you’re boldly going for it, this is your new best friend. You get the most of everything here–big flavor, body, and mouthfeel.",
 		"price": 50,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/277/pdp_desktop_medium/media.nl?1432753431",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/277/pdp_desktop_medium/media.nl?1432753431",
 		"category": "1"
 	}, {
 		"name": "Hario V60 Copper Dripper",
 		"description": "With its stainless steel and wavy contours, the Kalita Wave wins over coffee and design enthusiasts alike.",
 		"price": 49,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1405/large/media.nl?1455581608",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1405/large/media.nl?1455581608",
 		"category": "1"
 	}, {
 		"name": "Mazama X Stumptown Mug",
 		"description": "With its classic design and copper body made to conduct heat evenly, the V60 Copper brewer is perfect for making an exquisite cup of coffee.",
 		"price": 42,
-		"img": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1397/pdp_desktop_medium/media.nl?1455581331",
+		"image": "https://d1rusy4hxccwbq.cloudfront.net/spree/images/1397/pdp_desktop_medium/media.nl?1455581331",
 		"category": "1"
 	}],
 	"categories": [{
 		"name": "Coffee",
 		"products": {
 			"0": true,
-			"1": true
+			"1": true,
+			"2": true,
+			"3": true,
+			"4": true,
+			"5": true
 		}
 	}, {
 		"name": "Accessories",
 		"products": {
-			"2": true,
-			"3": true
+			"6": true,
+			"7": true,
+			"8": true,
+			"9": true
 		}
 	}]
 }
